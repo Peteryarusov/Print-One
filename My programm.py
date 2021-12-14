@@ -4,10 +4,11 @@ def my_superfunction():
 
 
 def main():
-    print('My first git program')
+    print('My second git program')
     print('And I change it every day')
     print('Again')
     print('UFO came and added this line')
+    print('newBranch')
     my_superfunction()
     print(1)
 
